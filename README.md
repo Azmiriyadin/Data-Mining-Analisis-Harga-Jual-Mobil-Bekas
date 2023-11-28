@@ -105,4 +105,4 @@ print(rmse)
 ## Gambar Hasil Proyek Harga Jual Mobil Bekas 
 
 ### Gambar 1
-<img src="img/gambar 1.jpg" alt="Hasil Proyek Aplikasi Pemutar Musik">
+<img src="archive/Rplot.png" alt="Hasil Proyek Harga Jual Mobil Bekas ">
