@@ -104,5 +104,4 @@ print(rmse)
 
 ## Gambar Hasil Proyek Harga Jual Mobil Bekas 
 
-### Gambar 1
 <img src="archive/Rplot.png" alt="Hasil Proyek Harga Jual Mobil Bekas ">
